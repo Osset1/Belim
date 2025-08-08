@@ -1,2 +1,2 @@
 # Belim
-Dashboard to stay organized
+AI that wins at breakout game
